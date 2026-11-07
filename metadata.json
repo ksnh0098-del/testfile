@@ -1,0 +1,6 @@
+{
+  "name": "중학 과학 제스처 퀴즈 (MediaPipe)",
+  "description": "손가락 제스처(1~4번 손가락 개수)로 푸는 중학교 과학 4지선다 퀴즈. 영상 전송 없는 100% 브라우저 로컬 비전 처리.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
